@@ -928,7 +928,7 @@ body{
     text-decoration: none;
 }
 .footer-social-icon ul li a i{
-    background: var(--blue-color);
+    background: #000;
     width: 45px;
     height: 45px;
     border-radius: 50%;
@@ -939,17 +939,17 @@ body{
     transition-timing-function: ease-out;
 }
 .footer-social-icon ul li a i:hover{
-    color: var(--white-color);
+    color: #000;
     background-color:#255afc ;
     transform: translateY(-8px);
 }
 .footer-social-icon ul li:nth-child(2) a i{
-    background: #f45089;
+    background: #343a40;
     margin-left: 11px;
     margin-right: 11px;
 }
 .footer-social-icon ul li:nth-child(2) a i:hover{
-    background: #f45089;
+    background: #343a40;
     color: var(--white-color);
     transform: translateY(-8px);
 }
